@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "Time Efficient",
+                "description": "Time efficiency in code indicates the execution speed of an algorithm or program, usually evaluated by its time complexity." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "Space Efficient",
+                "description": "Space efficiency in code measures the memory usage of an algorithm or program, often expressed in terms of space complexity." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "Skills",
+                "description": "Skills are learned abilities that enable a person to perform tasks and solve problems effectively." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./java.png",
+                "title": "Java",
+                "category": "JAVA"
+            },
+            {
+                "id": 2,
+                "image": "./aa.png",
+                "title": "C#",
+                "category":"C#"
+            },
+            {
+                "id": 3,
+                "image": "./python.png",
+                "title": "Python",
+                "category": "PYTHON"
+            },
+            {
+                "id": 4,
+                "image": "./node.png",
+                "title": "NODE js",
+                "category": "NODE js"
+            },
+            {
+                "id": 5,
+                "image": "./mongo.png",
+                "title": "MONGODB",
+                "category": "MONGODB"
+            },
+            {
+                "id": 6,
+                "image": "./react.png",
+                "title": "React",
+                "category": "React"
+            },
+            {
+                "id": 7,
+                "image": "./MERN.png",
+                "title": "MERN",
+                "category": "MERN"
+            },
+            {
+                "id": 8,
+                "image": "./JS.png",
+                "title": "JS",
+                "category": "JS"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "CEO"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "HR"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "TECH_TEAM_LEAD"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "CEO"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Branches"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Classrooms"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Foundation"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
